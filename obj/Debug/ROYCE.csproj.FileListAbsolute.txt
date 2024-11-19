@@ -1,0 +1,16 @@
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\bin\Debug\ROYCE.exe.config
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\bin\Debug\ROYCE.exe
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\bin\Debug\ROYCE.pdb
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.Properties.Resources.resources
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.csproj.GenerateResource.cache
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.exe
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.pdb
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.LoadingForm.resources
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.SignInForm.resources
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.AdminForm.resources
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.DasboardForm.resources
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.MainForm.resources
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.StudentForm.resources
+C:\Users\NGUYEN DINH HIEU\Documents\C#\ROYCE\ROYCE\obj\Debug\ROYCE.TeacherForm.resources
